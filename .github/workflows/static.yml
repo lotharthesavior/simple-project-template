@@ -33,13 +33,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: my-artifact
-          path: ./example/**/*
-#        uses: actions/upload-pages-artifact@v1
-#        with:
-#          path: './example'
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
