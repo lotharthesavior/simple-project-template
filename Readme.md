@@ -1,5 +1,5 @@
 
-<p style="text-align: center">
+<p align="center">
     <img src="public/imgs/brand-doc.svg" style="max-width: 300px;"/>
 </p>
 
