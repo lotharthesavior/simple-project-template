@@ -1,11 +1,9 @@
 
 <p style="text-align: center">
-    <img src="public/imgs/brand.svg" style="max-width: 300px;"/>
+    <img src="public/imgs/brand-doc.svg" style="max-width: 300px;"/>
 </p>
 
-<h1 style="text-align: center;">Simple Project Template</h1>
-
----
+# Simple Project Template
 
 This is a simple template for small projects presentation.
 
