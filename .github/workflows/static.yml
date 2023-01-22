@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: my-artifact
-          path: example/**/*
+          path: ./example/**/*
 #        uses: actions/upload-pages-artifact@v1
 #        with:
 #          path: './example'
