@@ -31,6 +31,19 @@ Build:
 npm run build
 ```
 
+**Customizations:**
+
+To customize the data, visit the file `main.js`, the "data" variable at the beginning.
+
+Available customizations done that way are:
+
+- title
+- subtitle
+- subtitle_mobile
+- links (href and text)
+- logo (the image on the right side)
+- color (text and links)
+
 ## Contact
 
 [Savio Resende](https://savioresende.com)
