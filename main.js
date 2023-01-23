@@ -11,9 +11,12 @@ const data = {
     subtitle_mobile: 'A VueJS + Vite <strong>template</strong> for small projects.',
     links: [
         {
+            href: 'https://github.com/lotharthesavior/simple-project-template',
+            text: 'Visit the <strong class="group-hover:underline">Project\'s Repository</strong>'
+        },{
             href: 'https://savioresende.com',
             text: 'Visit the <strong class="group-hover:underline">Author\'s Website</strong>'
-        },
+        }
     ],
 
     /**
